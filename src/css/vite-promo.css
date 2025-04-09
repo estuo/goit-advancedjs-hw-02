@@ -92,5 +92,8 @@
   background-color: #646cff;
   border: 1px solid transparent;
   border-radius: 1.25rem;
-  transition: color 0.25s, border-color 0.25s, background-color 0.25s;
+  transition:
+    color 0.25s,
+    border-color 0.25s,
+    background-color 0.25s;
 }
