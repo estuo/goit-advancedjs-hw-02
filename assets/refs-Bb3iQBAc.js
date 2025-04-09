@@ -1,0 +1,2 @@
+const e={input:document.querySelector('input[type="text"]'),days:document.querySelector("[data-days]"),hours:document.querySelector("[data-hours]"),minutes:document.querySelector("[data-minutes]"),seconds:document.querySelector("[data-seconds]"),btnStart:document.querySelector("[data-start]")},t={form:document.querySelector(".form"),delay:document.querySelector("[name='delay']")};export{e as a,t as r};
+//# sourceMappingURL=refs-Bb3iQBAc.js.map
